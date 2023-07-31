@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - giolucasd
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - giolucasd/graduation
+  - giolucasd/algorithms
+  - giolucasd/hermes
+  - giolucasd/community-pharmacy
+  - giolucasd/katas
+  - giolucasd/tic-tac-toe
