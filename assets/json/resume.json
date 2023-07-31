@@ -1,61 +1,167 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Giovanne Lucas",
+    "label": "Computer Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "giolucasd@gmail.com",
+    "phone": "(19) 9****-****",
+    "url": "https://giolucasd.github.io/",
+    "summary": "Brazilian computer scientist interested in projects with health and social impact",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "BR",
+      "region": "São Paulo"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "giolucasd",
+        "url": "https://www.linkedin.com/in/giolucasd/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Vertesis",
+      "position": "Software Engineer",
+      "url": "https://www.vertesis.com.br/",
+      "startDate": "2023-08-02",
+      "endDate": "Current",
+      "summary": "Full-stack software engineering.",
       "highlights": [
-        "Relativity"
+        "Computer Science", "Software Engineering"
+      ]
+    },
+    {
+      "name": "Ada Tech",
+      "position": "Software Programming Instructor",
+      "url": "https://ada.tech/",
+      "startDate": "2023-05-02",
+      "endDate": "Current",
+      "summary": "Professor in Data Science, Algorithms, Data Structures and Object Oriented Programming courses using Python.",
+      "highlights": [
+        "Computer Science", "Data Science", "Machine Learning"
+      ]
+    },
+    {
+      "name": "NeuralMind",
+      "position": "Software Engineer",
+      "url": "https://neuralmind.ai/",
+      "startDate": "2019-12-09",
+      "endDate": "2023-02-03",
+      "summary": "Full-stack software engineering within artificial intelligence products, leading the development team and organization on DevOps adoption journey. Data Scientist on NLP software. Acting from data ETL to software delivery through cloud hosted APIs.",
+      "highlights": [
+        "Computer Science", "Software Engineering", "Data Science", "Machine Learning", "DevOps"
+      ]
+    },
+    {
+      "name": "Unicamp",
+      "position": "Student Researcher",
+      "url": "https://neuralmind.ai/",
+      "startDate": "2016-03-01",
+      "endDate": "2019-08-16",
+      "summary": "Computational simulations in quantum mechanics, applied in the studies of hydrogen and bimetallic nano clusters within Density Functional Theory. Software documentation of an open source music information retrieval library in python.",
+      "highlights": [
+        "Physics", "Computer Science", "Computational Physics"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "State University of Campinas, Campinas, Brazil",
+      "url": "https://www.unicamp.br/unicamp/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016-03-01",
+      "endDate": "2023-07-20",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Algorithms",
+        "Data Structures",
+        "Object Oriented Programming",
+        "Computers Architecture",
+        "Databases",
+        "Software Engineering",
+        "Machine Learning",
+        "Distributed Computing",
+        "Computer Networks",
+        "Compilers"
+      ]
+    },
+    {
+      "institution": "Colégio Embraer Juarez Wanderley, São José dos Campos, Brazil",
+      "url": "https://institutoembraer.org.br/br/pt/colegios-embraer",
+      "area": "General Studies",
+      "studyType": "High School",
+      "startDate": "2013-02-04",
+      "endDate": "2015-12-18",
+      "score": "",
+      "courses": [
+        "Math",
+        "Portuguese",
+        "English",
+        "Spanish",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "History",
+        "Geography",
+        "Sociology",
+        "Philosophie"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "GOLD Medal at the XVIII Olimpíada Brasileira de Astronomia e Astronáutica",
+      "date": "2015-05-01",
+      "awarder": "Sociedade Astronômica Brasileira",
+      "summary": ""
+    },
+    {
+      "title": "GOLD Medal at the International Olympiad Mathématiques sans Frontières",
+      "date": "2015-03-01",
+      "awarder": "Académie de Strasbourg",
+      "summary": ""
+    },
+    {
+      "title": "GOLD Medal at the XVII Olimpíada Brasileira de Astronomia e Astronáutica",
+      "date": "2014-05-01",
+      "awarder": "Sociedade Astronômica Brasileira",
+      "summary": ""
+    },
+    {
+      "title": "SILVER Medal at the Concurso Canguru Sem Fronteiras",
+      "date": "2014-05-01",
+      "awarder": "Associação Canguru sem Fronteiras",
+      "summary": ""
+    },
+    {
+      "title": "BRONZE Medal at the International Olympiad Mathématiques sans Frontières",
+      "date": "2014-03-01",
+      "awarder": "Académie de Strasbourg",
+      "summary": ""
+    },
+    {
+      "title": "Honorable Mention at the Olimpíada Brasileira de Física",
+      "date": "2013-11-01",
+      "awarder": "Sociedade Brasileira de Física",
+      "summary": ""
+    },
+    {
+      "title": "GOLD Medal at the International Olympiad Mathématiques sans Frontières",
+      "date": "2013-03-01",
+      "awarder": "Académie de Strasbourg",
+      "summary": ""
+    },
+    {
+      "title": "Honorable Mention at the 7ª Olimpíada Brasileira de Matemática das Escolas Públicas",
+      "date": "2011-08-01",
+      "awarder": "Instituto Nacional de Matemática Pura e Aplicada",
+      "summary": ""
     }
   ],
   "certificates": [],
@@ -63,12 +169,20 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Brazilian",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
     }
   ],
   "interests": [],
