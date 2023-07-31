@@ -15,13 +15,24 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<div style="text-align: justify">
 Computer scientist from Unicamp with software engineering and data science experience in artificial intelligence products.
+</div>
 
+
+<div style="text-align: justify">
 My main web development technology stack includes Python, JavaScript, SQL, Docker and AWS. While my main experience in data science includes solving NLP tasks using spaCy upon in-house Python built libraries for MLOps.
+</div>
 
+
+<div style="text-align: justify">
 I believe quality and efficiency in software creation processes are tightly coupled. Therefore, I seek good practices from design to operation, prioritizing the development of quality software within a DevOps set of practices that includes tests, CI/CD, open communication and more.
+</div>
 
+
+<div style="text-align: justify">
 Projects with health or social impact have a special taste for me!
+</div>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
