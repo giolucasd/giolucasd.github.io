@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: Some fun repositories on GitHub for you to know me better.
+permalink: /github/
+title: github
+description: Some fun stats on GitHub.
 nav: true
 nav_order: 3
 ---
 
-## GitHub users
+## GitHub Users
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
