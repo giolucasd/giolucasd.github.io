@@ -21,10 +21,10 @@ Computer scientist from Unicamp with software engineering and data science exper
 My main web development technology stack includes Python, JavaScript, SQL, Docker and AWS. While my main experience in data science includes solving NLP tasks using spaCy upon in-house Python built libraries for MLOps.
 
 
-I believe quality and efficiency in software creation processes are tightly coupled. Therefore, I seek good practices from design to operation, prioritizing the development of quality software within a DevOps set of practices.
+I believe quality and efficiency in software creation processes are tightly coupled. Therefore, I seek good practices from design to operation, prioritizing the development of quality software within a DevOps set of practices that has teamwork as its major mark.
 
 
-Since my childhood, I have always loved sports and throughout the years I have collected medals in soccer, basketball, table tennis and swimming. That experiences were very fun and keep being a hobby nowadays. But they also taught me to keep pursuing excellency with resilience and that being a true competitor means knowing how to balance efforts on improving individually and teamwork.
+Since my childhood, I have always loved sports and throughout the years I have collected medals in soccer, basketball, table tennis and swimming. That experiences were very fun and keep being a hobby nowadays. But they also taught me to keep pursuing excellency with resilience and that being a true competitor means knowing how to balance efforts on improving individually and working as a team.
 
 
 Education changed my life for (way) better and I am proud to be a public school only student. Therefore, I seek to contribute with all generations - never too late to learn - education, inside and outside the classroom, trying to educate for autonomy, critic consciousness and ethics.
