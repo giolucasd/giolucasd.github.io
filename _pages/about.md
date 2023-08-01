@@ -15,24 +15,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<div style="text-align: justify">
 Computer scientist from Unicamp with software engineering and data science experience in artificial intelligence products.
-</div>
 
 
-<div style="text-align: justify">
 My main web development technology stack includes Python, JavaScript, SQL, Docker and AWS. While my main experience in data science includes solving NLP tasks using spaCy upon in-house Python built libraries for MLOps.
-</div>
 
 
-<div style="text-align: justify">
-I believe quality and efficiency in software creation processes are tightly coupled. Therefore, I seek good practices from design to operation, prioritizing the development of quality software within a DevOps set of practices that includes tests, CI/CD, open communication and more.
-</div>
+I believe quality and efficiency in software creation processes are tightly coupled. Therefore, I seek good practices from design to operation, prioritizing the development of quality software within a DevOps set of practices.
 
 
-<div style="text-align: justify">
+Since my childhood, I have always loved sports and throughout the years I have collected medals in soccer, basketball, table tennis and swimming. That experiences were very fun and keep being a hobby nowadays. But they also taught me to keep pursuing excellency with resilience and that being a true competitor means knowing how to balance efforts on improving individually and teamwork.
+
+
+Education changed my life for (way) better and I am proud to be a public school only student. Therefore, I seek to contribute with all generations - never too late to learn - education, inside and outside the classroom, trying to educate for autonomy, critic consciousness and ethics.
+
+
 Projects with health or social impact have a special taste for me!
-</div>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
