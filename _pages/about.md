@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Computer scientist from Unicamp with software engineering and data science experience in artificial intelligence products.
+Scientist specialized in computers with software engineering and data science experience in artificial intelligence products. I like to help people, make lots of questions, answer some of them and solve problems (real or imaginary).
 
 
 My main web development technology stack includes Python, JavaScript, SQL, Docker and AWS. While my main experience in data science includes solving NLP tasks using spaCy upon in-house Python built libraries for MLOps.
